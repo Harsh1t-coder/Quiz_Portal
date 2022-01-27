@@ -1,15 +1,12 @@
-Hey! This is the Quiz application project that I have made within the time period of 3 days.
+# Hey! This is the Quiz application project that I have made within the time period of 3 days.
 
-Hosted Link: http://harshitquiz.great-site.net/system/ for the students to login,
-             and http://harshitquiz.great-site.net/system/teacher/admin for the teacher to login.
+#### Hosted Link for the students to login: [for student](http://harshitquiz.great-site.net/system/ )
+#### Hosted Link for the teachers to login: [for teacher](http://harshitquiz.great-site.net/system/teacher/admin) 
 
-
-
-
-Teacher Credential's:
+#### Teacher Credential's: Will be sent to you in additional link
 Username: admin@username
 Password: admin@password
 
-Student Credential's :
-Username:surya@gmail.com
-Password:surya
+#### Student Credential's : \
+**Username**: surya@gmail.com \
+**Password**: surya
